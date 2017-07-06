@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-spectral",
+  "version": "1.0.0",
+  "description": "Spectral Cordova Plugin",
+  "cordova": {
+    "id": "cordova-plugin-spectral",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrasDF/cordova-plugin-spectral.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "adf",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/AndrasDF/cordova-plugin-spectral/issues"
+  },
+  "homepage": "https://github.com/AndrasDF/cordova-plugin-spectral#readme"
+}
